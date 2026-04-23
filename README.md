@@ -34,13 +34,13 @@
 ---
 <h2>⚡ Tech Stack</h2>
 <div align="center">
-**Programming Languages**
+<h3>Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,matlab&theme=dark" />
 <br>
-**Tools & Software**
+<h3>Tools & Software</h3>
 <img src="https://skillicons.dev/icons?i=latex,git,github,vscode,linux&theme=dark" />
 <br>
-**Libraries, Frameworks & Other Tools**
+<h3>Libraries, Frameworks & Other Tools</h3>
 <br>
 <img src="https://img.shields.io/badge/Qutip-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PySCF-000000?style=for-the-badge&logo=python&logoColor=white" />
