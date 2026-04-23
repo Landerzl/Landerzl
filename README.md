@@ -20,11 +20,13 @@
 <table>
 <tr>
 <td width="60%">
-- 📍 Leioa, Bizkaia, Spain
-- 🎓 BSc in **Physics** @ University of the Basque Country (UPV/EHU)
-- 🔬 Researching **Critical Metrology, NV Centers & Quantum Sensing**
-- 🔭 Working on an experimental setup of the **BB84 QKD protocol**
-- 🎯 Eager to explore the boundaries of quantum science & technologies
+<ul>
+  <li>📍 Leioa, Bizkaia, Spain</li>
+  <li>🎓 BSc in <b>Physics</b> @ University of the Basque Country (UPV/EHU)</li>
+  <li>🔬 Researching <b>Critical Metrology, NV Centers & Quantum Sensing</b></li>
+  <li>🔭 Working on an experimental setup of the <b>BB84 QKD protocol</b></li>
+  <li>🎯 Eager to explore the boundaries of quantum science & technologies</li>
+</ul>
 </td>
 <td width="40%" align="center">
 <img src="./physics.gif" width="250" alt="Physics GIF" />
