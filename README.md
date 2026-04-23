@@ -16,7 +16,6 @@
   <a href="https://lander-zulueta-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Landerzl&style=for-the-badge&color=blueviolet" alt="profile views" />
 </div>
 
 ---
@@ -36,7 +35,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/3o7btQ0FPyyPmGQFna/giphy.gif" width="250" alt="Physics GIF" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Bohr-atom-PAR.gif" width="250" alt="Physics GIF" />
 
 </td>
 </tr>
@@ -50,7 +49,7 @@
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,matlab&theme=dark" />
 
 <br>
 
