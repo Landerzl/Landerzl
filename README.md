@@ -35,7 +35,7 @@
 </td>
 <td width="40%" align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Bohr-atom-PAR.gif" width="250" alt="Physics GIF" />
+<img src="./physics.gif" width="250" alt="Physics GIF" />
 
 </td>
 </tr>
